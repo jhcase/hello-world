@@ -1,2 +1,2 @@
 # hello-world
-sample respositiory for education purposes
+sample respository for education purposes
